@@ -7,6 +7,14 @@ int main(int argc, char *argv[])
 	
 	// this is also a comment
 	printf("You are %d miles away.\n", distance);
+	printf("Line 1\n");
+	printf("Line 2\n");
+	printf("Line 3\n");
+	printf("Line 4\n");
+	printf("Line 5\n");	
+
+
+
 
 	return 0;
 }

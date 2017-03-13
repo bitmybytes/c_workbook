@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+
+lldb $1 ${2:-}
